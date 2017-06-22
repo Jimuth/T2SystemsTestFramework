@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f996e8-aaf2-4e84-b299-3b68d9747801" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Flex_Login_Variables2.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Flex_Login_Variables.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/Flex_Login_Variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="2080" column="0" lean-forward="true" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+              <folding>
+                <element signature="e#68#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Create_kw.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Create_kw.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <marker date="1498051832022" expanded="true" signature="7265:7424" ph="Select Insert Citation InnerPage" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomSelenium2Library.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/CustomSelenium2Library.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="726" column="8" lean-forward="true" selection-start-line="726" selection-start-column="8" selection-end-line="726" selection-end-column="19" />
+              <folding>
+                <element signature="e#61#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Configuration_kw.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Configuration_kw.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="1234" column="14" lean-forward="true" selection-start-line="1234" selection-start-column="14" selection-end-line="1234" selection-end-column="14" />
+              <folding>
+                <marker date="1498142091037" expanded="true" signature="103:186424" ph="*** Keywords ***" />
+                <marker date="1498142091037" expanded="true" signature="76500:76549" ph="Renewals Schedule2" />
+                <marker date="1498142091037" expanded="true" signature="76551:76575" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="76551:77124" ph="Click_Control_Groups-PCC" />
+                <marker date="1498142091037" expanded="true" signature="77126:77166" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="77126:77413" ph="Violation Fine Escalation &amp; Accumulation" />
+                <marker date="1498142091037" expanded="true" signature="77415:77432" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="77415:77656" ph="Letter Management" />
+                <marker date="1498142091037" expanded="true" signature="77658:77679" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="77658:77907" ph="Misc. Sale Items/Fees" />
+                <marker date="1498142091037" expanded="true" signature="77909:77931" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="77909:78104" ph="Add New Misc. Item/Fee" />
+                <marker date="1498142091037" expanded="true" signature="78106:78125" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="78106:78351" ph="External Sale Items" />
+                <marker date="1498142091037" expanded="true" signature="78353:78375" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="78353:78604" ph="Data Field Definitions" />
+                <marker date="1498142091037" expanded="true" signature="78606:78633" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="78606:79093" ph="Data Field Definitions Page" />
+                <marker date="1498142091037" expanded="true" signature="79095:79129" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="79095:80142" ph="Insert/Edit Field Definitions Page" />
+                <marker date="1498142091037" expanded="true" signature="80144:80179" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="80144:81624" ph="Insert/Edit Field Definitions Page1" />
+                <marker date="1498142091037" expanded="true" signature="81626:81663" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="81626:83336" ph="Insert/Edit Permit Control Group SBPM" />
+                <marker date="1498142091037" expanded="true" signature="83338:83360" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="83338:84419" ph="FeeSchedule Select SBP" />
+                <marker date="1498142091037" expanded="true" signature="84421:84448" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="84421:85484" ph="Bulk Permit Content Manager" />
+                <marker date="1498142091037" expanded="true" signature="85486:85519" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="85486:86456" ph="Enter Key Information Bulk Permit" />
+                <marker date="1498142091037" expanded="true" signature="86458:86495" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="86458:87257" ph="Enter Key Information Bulk Permit POS" />
+                <marker date="1498142091037" expanded="true" signature="87259:87295" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="87259:87863" ph="Enter Key Information Bulk Permit FD" />
+                <marker date="1498142091037" expanded="true" signature="87865:87897" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="87865:88130" ph="Click on Bulk Permit in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="88132:88145" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="88132:89052" ph="Add to Basket" />
+                <marker date="1498142091037" expanded="true" signature="89054:89080" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="89054:90354" ph="Vehicle Content Manager BT" />
+                <marker date="1498142091037" expanded="true" signature="90356:90376" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="90356:91241" ph="Boot Content Manager" />
+                <marker date="1498142091037" expanded="true" signature="91243:91268" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="91243:91993" ph="Edit Boot/Tow Information" />
+                <marker date="1498142091037" expanded="true" signature="91995:92034" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="91995:92236" ph="Click on the Vehicle Number in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="92238:92273" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="92238:92515" ph="Configuration Table Role Management" />
+                <marker date="1498142091037" expanded="true" signature="92517:92535" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="92517:92760" ph="Synonym Management" />
+                <marker date="1498142091037" expanded="true" signature="92762:92792" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="92762:93029" ph="Payment Eligibility Management" />
+                <marker date="1498142091037" expanded="true" signature="93031:93068" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="93031:93312" ph="Occupancy/Pricing Schedule Management" />
+                <marker date="1498142091037" expanded="true" signature="93314:93345" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="93314:93583" ph="System Time Schedule Management" />
+                <marker date="1498142091037" expanded="true" signature="93585:93613" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="93585:93848" ph="Cashier Station Charge Types" />
+                <marker date="1498142091037" expanded="true" signature="93850:93864" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="93850:94085" ph="DCS Management" />
+                <marker date="1498142091037" expanded="true" signature="94087:94107" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="94087:94334" ph="Asset Work Schedules" />
+                <marker date="1498142091037" expanded="true" signature="94336:94359" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="94336:94589" ph="Discount Time Schedules" />
+                <marker date="1498142091037" expanded="true" signature="94591:94605" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="94591:94826" ph="Mobile Devices" />
+                <marker date="1498142091037" expanded="true" signature="94828:94850" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="94828:96614" ph="Permit Content Manager" />
+                <marker date="1498142091037" expanded="true" signature="96616:96656" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="96616:97713" ph="Permit Content Manager-SaveAndSellPermit" />
+                <marker date="1498142091037" expanded="true" signature="97715:97729" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="97715:98616" ph="Select Vehicle" />
+                <marker date="1498142091037" expanded="true" signature="98618:98650" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="98618:98776" ph="Click VechilesLink- Summary Page" />
+                <marker date="1498142091037" expanded="true" signature="98778:98799" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="98778:99907" ph="Enter Vehicle Details" />
+                <marker date="1498142091037" expanded="true" signature="99909:99926" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="99909:100458" ph="ConfigurationMisc" />
+                <marker date="1498142091037" expanded="true" signature="100460:100491" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="100460:101391" ph="Insert/Edit Misc. Sale Item/Fee" />
+                <marker date="1498142091037" expanded="true" signature="101393:101415" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="101393:101856" ph="Select Misc Sale Item2" />
+                <marker date="1498142091037" expanded="true" signature="101858:101879" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="101858:102657" ph="Selection Basket Page" />
+                <marker date="1498142091037" expanded="true" signature="102659:102692" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="102659:102869" ph="Add Misc Item In Selection Basket" />
+                <marker date="1498142091037" expanded="true" signature="102871:102886" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="102871:103860" ph="Deactive Permit" />
+                <marker date="1498142091037" expanded="true" signature="103862:103877" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="103862:104024" ph="Reactive Permit" />
+                <marker date="1498142091037" expanded="true" signature="104026:104044" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="104026:104209" ph="Confirm Possession" />
+                <marker date="1498142091037" expanded="true" signature="104211:104222" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="104211:104896" ph="Edit Permit" />
+                <marker date="1498142091037" expanded="true" signature="104898:104910" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="104898:105988" ph="Mark Missing" />
+                <marker date="1498142091037" expanded="true" signature="105990:106003" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="105990:106367" ph="Return Permit" />
+                <marker date="1498142091037" expanded="true" signature="106369:106402" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="106369:106595" ph="Click on the Customer in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="106597:106635" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="106597:107178" ph="Select a Configuration Category_System" />
+                <marker date="1498142091037" expanded="true" signature="107180:107190" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="107180:107995" ph="Send Email" />
+                <marker date="1498142091037" expanded="true" signature="107997:108016" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="107997:108182" ph="View Letter History" />
+                <marker date="1498142091037" expanded="true" signature="108184:108222" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="108184:109933" ph="FeeSchedule Select for Refund Schedule" />
+                <marker date="1498142091037" expanded="true" signature="109935:109969" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="109935:111138" ph="FeeSchedule Select RefundValueLess" />
+                <marker date="1498142091037" expanded="true" signature="111140:111185" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="111140:112015" ph="Third Party Content Manager For Merge Records" />
+                <marker date="1498142091037" expanded="true" signature="112017:112032" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="112017:113076" ph="Merge Customers" />
+                <marker date="1498142091037" expanded="true" signature="113078:113100" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="113078:114672" ph="Appeal Content Manager" />
+                <marker date="1498142091037" expanded="true" signature="114674:114714" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="114674:114900" ph="Click on the Citation Number in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="114902:114933" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="114902:115162" ph="Click on the Appeal in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="115164:115177" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="115164:116100" ph="Apply Results" />
+                <marker date="1498142091037" expanded="true" signature="116102:116115" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="116102:116433" ph="Add Misc Item" />
+                <marker date="1498142091037" expanded="true" signature="116435:116467" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="116435:118046" ph="Insert/Edit Permit Control Group" />
+                <marker date="1498142091037" expanded="true" signature="118048:118073" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="118048:119414" ph="Permit content manager-MC" />
+                <marker date="1498142091037" expanded="true" signature="119416:119444" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="119416:120266" ph="Third Party Content Manager2" />
+                <marker date="1498142091037" expanded="true" signature="120268:120296" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="120268:121392" ph="Third Party Content Manager1" />
+                <marker date="1498142091037" expanded="true" signature="121394:121429" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="121394:121906" ph="Insert/Edit Customer Classification" />
+                <marker date="1498142091037" expanded="true" signature="121908:121946" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="121908:122843" ph="Insert/Edit Customer Subclassification" />
+                <marker date="1498142091037" expanded="true" signature="122845:122872" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="122845:124078" ph="Insert/Edit Transfer Agency" />
+                <marker date="1498142091037" expanded="true" signature="124080:124106" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="124080:125025" ph="Insert/Edit Payment Method" />
+                <marker date="1498142091037" expanded="true" signature="125027:125054" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="125027:125209" ph="Click on Configuration Link" />
+                <marker date="1498142091037" expanded="true" signature="125211:125282" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="125211:126220" ph="Payment Eligibility Management Page Subclassifications Page- ThirdParty" />
+                <marker date="1498142091037" expanded="true" signature="126222:126281" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="126222:127337" ph="Payment Eligibility Management Page Subclassifications Page" />
+                <marker date="1498142091037" expanded="true" signature="127339:127399" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="127339:128337" ph="Payment Eligibility Management Page Subclassifications Page1" />
+                <marker date="1498142091037" expanded="true" signature="128339:128374" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="128339:129699" ph="Insert/Edit Permit Control Group SP" />
+                <marker date="1498142091037" expanded="true" signature="129701:129724" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="129701:131187" ph="Edit Permit Information" />
+                <marker date="1498142091037" expanded="true" signature="131189:131209" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="131189:133366" ph="Renewals Schedule SP" />
+                <marker date="1498142091037" expanded="true" signature="133368:133401" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="133368:133883" ph="Back to NumberRange from Renewals" />
+                <marker date="1498142091037" expanded="true" signature="133885:133935" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="133885:134121" ph="Click on the Pre-Authorized Deductions in the Grid" />
+                <marker date="1498142091037" expanded="true" signature="134123:134149" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="134123:135471" ph="Define Task Parameters PAD" />
+                <marker date="1498142091037" expanded="true" signature="135473:135486" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="135473:135931" ph="Query manager" />
+                <marker date="1498142091037" expanded="true" signature="135933:135944" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="135933:136429" ph="Query Setup" />
+                <marker date="1498142091037" expanded="true" signature="136431:136470" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="136431:136679" ph="Click Citation In Choose Starting Table" />
+                <marker date="1498142091037" expanded="true" signature="136681:136703" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="136681:137724" ph="Join Additional Tables" />
+                <marker date="1498142091037" expanded="true" signature="137726:137740" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="137726:138894" ph="Select Filters" />
+                <marker date="1498142091037" expanded="true" signature="138896:138932" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="138896:139404" ph="Select Options for Totals and Counts" />
+                <marker date="1498142091037" expanded="true" signature="139406:139430" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="139406:139651" ph="Lookup Table Management2" />
+                <marker date="1498142091037" expanded="true" signature="139653:139666" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="139653:139817" ph="Add New Item2" />
+                <marker date="1498142091037" expanded="true" signature="139819:139840" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="139819:140610" ph="Define Scheduled Task" />
+                <marker date="1498142091037" expanded="true" signature="140612:140638" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="140612:141071" ph="Define Schedule Task Step2" />
+                <marker date="1498142091037" expanded="true" signature="141073:141096" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="141073:142368" ph="Define Task Parameters1" />
+                <marker date="1498142091037" expanded="true" signature="142370:142397" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="142370:143399" ph="Define Task Parameters CLFP" />
+                <marker date="1498142091037" expanded="true" signature="143401:143427" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="143401:146065" ph="Define Task Parameters-CSL" />
+                <marker date="1498142091037" expanded="true" signature="146067:146116" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="146067:147130" ph="Payment Eligibility Management FinancialType Page" />
+                <marker date="1498142091037" expanded="true" signature="147132:147164" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="147132:148085" ph="Permit content manager-Link Flow" />
+                <marker date="1498142091037" expanded="true" signature="148087:148123" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="148087:149875" ph="Permit content manager-Sell Flow POS" />
+                <marker date="1498142091037" expanded="true" signature="149877:149901" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="149877:150671" ph="Insert/Edit Address Type" />
+                <marker date="1498142091037" expanded="true" signature="150673:150688" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="150673:150751" ph="Refresh Browser" />
+                <marker date="1498142091037" expanded="true" signature="150753:150772" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="150753:152793" ph="Cash Drawer Section" />
+                <marker date="1498142091037" expanded="true" signature="152795:152816" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="152795:154024" ph="Configuration Section" />
+                <marker date="1498142091037" expanded="true" signature="154026:154042" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="154026:155481" ph="Customer Section" />
+                <marker date="1498142091037" expanded="true" signature="155483:155497" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="155483:157652" ph="Permit Section" />
+                <marker date="1498142091037" expanded="true" signature="157654:157669" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="157654:158166" ph="Receipt Section" />
+                <marker date="1498142091037" expanded="true" signature="158168:158188" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="158168:159038" ph="Relationship Section" />
+                <marker date="1498142091037" expanded="true" signature="159040:159055" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="159040:160191" ph="Vehicle Section" />
+                <marker date="1498142091037" expanded="true" signature="160193:160204" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="160193:160327" ph="User Logout" />
+                <marker date="1498142091037" expanded="true" signature="160329:160365" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="160329:162302" ph="Permit content manager-Sell Flow CPP" />
+                <marker date="1498142091037" expanded="true" signature="162304:162310" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="162304:162429" ph="Logout" />
+                <marker date="1498142091037" expanded="true" signature="162431:162439" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="162431:162568" ph="Continue" />
+                <marker date="1498142091037" expanded="true" signature="162570:162583" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="162570:163148" ph="PaymentMethod" />
+                <marker date="1498142091037" expanded="true" signature="163150:163173" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="163150:164428" ph="Override Authentication" />
+                <marker date="1498142091037" expanded="true" signature="164430:164456" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="164430:165248" ph="Permit content manager-PCG" />
+                <marker date="1498142091037" expanded="true" signature="165250:165266" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="165250:167028" ph="Insert/Edit User" />
+                <marker date="1498142091037" expanded="true" signature="167030:167045" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="167030:167267" ph="User Management" />
+                <marker date="1498142091037" expanded="true" signature="167269:167281" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="167269:167493" ph="Add New User" />
+                <marker date="1498142091037" expanded="true" signature="167495:167531" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="167495:168876" ph="Insert/Edit Permit Control Group PCG" />
+                <marker date="1498142091037" expanded="true" signature="168878:168915" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="168878:170355" ph="Insert/Edit Permit Control Group RERP" />
+                <marker date="1498142091037" expanded="true" signature="170357:170379" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="170357:172533" ph="Renewals Schedule RERP" />
+                <marker date="1498142091037" expanded="true" signature="172535:172568" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="172535:173360" ph="Permit content manager-CreditCard" />
+                <marker date="1498142091037" expanded="true" signature="173362:173384" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="173362:174353" ph="FeeSchedule Select PEM" />
+                <marker date="1498142091037" expanded="true" signature="174355:174369" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="174355:175285" ph="Times Schedule" />
+                <marker date="1498142091037" expanded="true" signature="175287:175323" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="175287:175831" ph="Permit content manager-Sell Flow PEM" />
+                <marker date="1498142091037" expanded="true" signature="175833:175863" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="175833:176947" ph="Selection Basket CheckOut PEM1" />
+                <marker date="1498142091037" expanded="true" signature="176949:176979" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="176949:177915" ph="Selection Basket CheckOut PEM2" />
+                <marker date="1498142091037" expanded="true" signature="177917:177953" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="177917:179352" ph="Insert/Edit Permit Control Group PEM" />
+                <marker date="1498142091037" expanded="true" signature="179354:179384" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="179354:180115" ph="Insert/Edit Payment Method PEM" />
+                <marker date="1498142091037" expanded="true" signature="180117:180139" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="180117:180853" ph="Selection Basket Page3" />
+                <marker date="1498142091037" expanded="true" signature="180855:180884" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="180855:181649" ph="Permit content manager Cancel" />
+                <marker date="1498142091037" expanded="true" signature="181651:181678" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="181651:182409" ph="Insert/Edit Payment Method2" />
+                <marker date="1498142091037" expanded="true" signature="182411:182439" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="182411:185520" ph="Insert/Edit Transfer Agency2" />
+                <marker date="1498142091037" expanded="true" signature="185522:185557" ph="..." />
+                <marker date="1498142091037" expanded="true" signature="185522:186424" ph="Insert/Edit PaymentScheduleTemplate" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Cash_Drawer_kw.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Cash_Drawer_kw.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="48" column="67" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Editing Permit Manager</find>
+      <find>SeriesCharWid</find>
+      <find>Payment Eligibility Management FinancialType Page</find>
+      <find>ccc</find>
+      <find>credi</find>
+      <find>cc</find>
+      <find>Payment Eligibility Management</find>
+      <find>link</find>
+      <find>$</find>
+      <find>Renewals Schedule</find>
+      <find>${</find>
+      <find>%</find>
+      <find>date</find>
+      <find>inner</find>
+      <find>--</find>
+      <find>--f</find>
+      <find>Merge Customers</find>
+      <find>Select Misc Sale Item</find>
+      <find>apply</find>
+      <find>LTM</find>
+      <find>--c</find>
+      <find>Insert/Edit Transfer Agency2</find>
+      <find>--per</find>
+      <find>Permit content manager Cancel</find>
+      <find>sale</find>
+      <find>Add Misc Item In Selection Basket</find>
+      <find>logout</find>
+      <find>misc</find>
+      <find>refund re</find>
+      <find>Select_Misc_sale</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test/Suit1/Insert Citations.py" />
+        <option value="$PROJECT_DIR$/Test/Suit1/TestRobot" />
+        <option value="$PROJECT_DIR$/Test/Suit1/ApplyAdjust fees" />
+        <option value="$PROJECT_DIR$/Test/Suit1/AllocatePermits To Cash Drawers" />
+        <option value="$PROJECT_DIR$/library/Keywords/Assertions/Assertions_kw.robot" />
+        <option value="$PROJECT_DIR$/Test/Suit1/TestCase1.txt" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/CustomSelenium2Library" />
+        <option value="$PROJECT_DIR$/library/Keywords/General/Store_Results.robot" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/CustomSelenium2Library.py" />
+        <option value="$PROJECT_DIR$/Resources/int_test.py" />
+        <option value="$PROJECT_DIR$/library/Keywords/Flex_Login/Flex_Login_kw.robot" />
+        <option value="$USER_HOME$/Desktop/CustomSeleniumLibrary.py" />
+        <option value="$PROJECT_DIR$/Test/Suit1/TestCase3.txt" />
+        <option value="$PROJECT_DIR$/Resources/Test_S" />
+        <option value="$PROJECT_DIR$/Resources/Flex_Login_Variable2.py" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Financial_kw.robot" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Search_kw.robot" />
+        <option value="$PROJECT_DIR$/Resources/Flex_Login_Variables2.py" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Processing_kw.robot" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Cash_Drawer_kw.robot" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Create_kw.robot" />
+        <option value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Configuration_kw.robot" />
+        <option value="$PROJECT_DIR$/Resources/CustomSelenium2Library.py" />
+        <option value="$PROJECT_DIR$/Resources/Flex_Login_Variables.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1365" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keywords" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SystemsTestFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keywords" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main_Flex_Page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Robot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/E002716/PycharmProjects/T2SystemsTestFramework/library/Keywords/Main_Flex_Page/Main_Configuration_kw.robot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\Resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\library\Keywords\Main_Flex_Page" />
+      <recent name="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\Resources" />
+      <recent name="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\misc" />
+      <recent name="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\library" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CustomSelenium2Library">
+    <configuration default="false" name="CustomSelenium2Library" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/library/Keywords/Main_Flex_Page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\E002716\PycharmProjects\T2SystemsTestFramework\Resources\CustomSelenium2Library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CustomSelenium2Library (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resources" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resources/CustomSelenium2Library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test_S" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Resources" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Resources/Test_S" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="T2SystemsTestFramework" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="T2SystemsTestFramework" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.CustomSelenium2Library" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CustomSelenium2Library (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Test_S" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.CustomSelenium2Library" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Test_S" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CustomSelenium2Library (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f996e8-aaf2-4e84-b299-3b68d9747801" name="Default" comment="" />
+      <created>1492597271392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492597271392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1365" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23869532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23869532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Resources/Flex_Login_Variables.py</url>
+          <line>2139</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Assertions/Assertions_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Flex_Login/Flex_Login_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Cash_Drawer_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Configuration_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/ApplyAdjust fees" />
+    <entry file="file://$PROJECT_DIR$/Test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keyword" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/Insert Citations.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.robot" />
+    <entry file="file://$PROJECT_DIR$/library/Key" />
+    <entry file="file://$PROJECT_DIR$/library/Keywords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/TestRobot" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/Sell Credential Permit" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/ApplyAdjust fees" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/AllocatePermits To Cash Drawers" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/InsertCitations" />
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Recent_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Methods" />
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/CustomSelenium2Library" />
+    <entry file="file://$PROJECT_DIR$/misc/CustomSeleniumLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Resources/int_test.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/Selenium2Library/keywords/_waiting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/General/Store_Results.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/CustomSeleniumLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Assertions/Assertions_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Flex_Login/Flex_Login_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Flex_Login/CreateZephyrExecution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Flex_Login_Variables2.py" />
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Monitoring_System_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/TestCase2.txt" />
+    <entry file="file://$PROJECT_DIR$/Resources/Test_S" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/TestCase1.txt" />
+    <entry file="file://$PROJECT_DIR$/Test/Suit1/TestCase3.txt" />
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Financial_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/FLEX/Flex_Citations/Citations.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/Selenium2Library/keywords/_selectelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/FLEX/Flex_Permits/Permits.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="225" column="50" lean-forward="false" selection-start-line="225" selection-start-column="50" selection-end-line="225" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Flex_Login_Variables2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Search_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Processing_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3706">
+          <caret line="220" column="0" lean-forward="true" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Cash_Drawer_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="48" column="67" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Create_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1498051832022" expanded="true" signature="7265:7424" ph="Select Insert Citation InnerPage" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/Keywords/Main_Flex_Page/Main_Configuration_kw.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="1234" column="14" lean-forward="true" selection-start-line="1234" selection-start-column="14" selection-end-line="1234" selection-end-column="14" />
+          <folding>
+            <marker date="1498142091037" expanded="true" signature="103:186424" ph="*** Keywords ***" />
+            <marker date="1498142091037" expanded="true" signature="76500:76549" ph="Renewals Schedule2" />
+            <marker date="1498142091037" expanded="true" signature="76551:76575" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="76551:77124" ph="Click_Control_Groups-PCC" />
+            <marker date="1498142091037" expanded="true" signature="77126:77166" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="77126:77413" ph="Violation Fine Escalation &amp; Accumulation" />
+            <marker date="1498142091037" expanded="true" signature="77415:77432" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="77415:77656" ph="Letter Management" />
+            <marker date="1498142091037" expanded="true" signature="77658:77679" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="77658:77907" ph="Misc. Sale Items/Fees" />
+            <marker date="1498142091037" expanded="true" signature="77909:77931" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="77909:78104" ph="Add New Misc. Item/Fee" />
+            <marker date="1498142091037" expanded="true" signature="78106:78125" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="78106:78351" ph="External Sale Items" />
+            <marker date="1498142091037" expanded="true" signature="78353:78375" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="78353:78604" ph="Data Field Definitions" />
+            <marker date="1498142091037" expanded="true" signature="78606:78633" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="78606:79093" ph="Data Field Definitions Page" />
+            <marker date="1498142091037" expanded="true" signature="79095:79129" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="79095:80142" ph="Insert/Edit Field Definitions Page" />
+            <marker date="1498142091037" expanded="true" signature="80144:80179" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="80144:81624" ph="Insert/Edit Field Definitions Page1" />
+            <marker date="1498142091037" expanded="true" signature="81626:81663" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="81626:83336" ph="Insert/Edit Permit Control Group SBPM" />
+            <marker date="1498142091037" expanded="true" signature="83338:83360" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="83338:84419" ph="FeeSchedule Select SBP" />
+            <marker date="1498142091037" expanded="true" signature="84421:84448" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="84421:85484" ph="Bulk Permit Content Manager" />
+            <marker date="1498142091037" expanded="true" signature="85486:85519" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="85486:86456" ph="Enter Key Information Bulk Permit" />
+            <marker date="1498142091037" expanded="true" signature="86458:86495" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="86458:87257" ph="Enter Key Information Bulk Permit POS" />
+            <marker date="1498142091037" expanded="true" signature="87259:87295" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="87259:87863" ph="Enter Key Information Bulk Permit FD" />
+            <marker date="1498142091037" expanded="true" signature="87865:87897" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="87865:88130" ph="Click on Bulk Permit in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="88132:88145" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="88132:89052" ph="Add to Basket" />
+            <marker date="1498142091037" expanded="true" signature="89054:89080" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="89054:90354" ph="Vehicle Content Manager BT" />
+            <marker date="1498142091037" expanded="true" signature="90356:90376" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="90356:91241" ph="Boot Content Manager" />
+            <marker date="1498142091037" expanded="true" signature="91243:91268" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="91243:91993" ph="Edit Boot/Tow Information" />
+            <marker date="1498142091037" expanded="true" signature="91995:92034" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="91995:92236" ph="Click on the Vehicle Number in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="92238:92273" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="92238:92515" ph="Configuration Table Role Management" />
+            <marker date="1498142091037" expanded="true" signature="92517:92535" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="92517:92760" ph="Synonym Management" />
+            <marker date="1498142091037" expanded="true" signature="92762:92792" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="92762:93029" ph="Payment Eligibility Management" />
+            <marker date="1498142091037" expanded="true" signature="93031:93068" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="93031:93312" ph="Occupancy/Pricing Schedule Management" />
+            <marker date="1498142091037" expanded="true" signature="93314:93345" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="93314:93583" ph="System Time Schedule Management" />
+            <marker date="1498142091037" expanded="true" signature="93585:93613" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="93585:93848" ph="Cashier Station Charge Types" />
+            <marker date="1498142091037" expanded="true" signature="93850:93864" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="93850:94085" ph="DCS Management" />
+            <marker date="1498142091037" expanded="true" signature="94087:94107" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="94087:94334" ph="Asset Work Schedules" />
+            <marker date="1498142091037" expanded="true" signature="94336:94359" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="94336:94589" ph="Discount Time Schedules" />
+            <marker date="1498142091037" expanded="true" signature="94591:94605" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="94591:94826" ph="Mobile Devices" />
+            <marker date="1498142091037" expanded="true" signature="94828:94850" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="94828:96614" ph="Permit Content Manager" />
+            <marker date="1498142091037" expanded="true" signature="96616:96656" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="96616:97713" ph="Permit Content Manager-SaveAndSellPermit" />
+            <marker date="1498142091037" expanded="true" signature="97715:97729" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="97715:98616" ph="Select Vehicle" />
+            <marker date="1498142091037" expanded="true" signature="98618:98650" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="98618:98776" ph="Click VechilesLink- Summary Page" />
+            <marker date="1498142091037" expanded="true" signature="98778:98799" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="98778:99907" ph="Enter Vehicle Details" />
+            <marker date="1498142091037" expanded="true" signature="99909:99926" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="99909:100458" ph="ConfigurationMisc" />
+            <marker date="1498142091037" expanded="true" signature="100460:100491" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="100460:101391" ph="Insert/Edit Misc. Sale Item/Fee" />
+            <marker date="1498142091037" expanded="true" signature="101393:101415" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="101393:101856" ph="Select Misc Sale Item2" />
+            <marker date="1498142091037" expanded="true" signature="101858:101879" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="101858:102657" ph="Selection Basket Page" />
+            <marker date="1498142091037" expanded="true" signature="102659:102692" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="102659:102869" ph="Add Misc Item In Selection Basket" />
+            <marker date="1498142091037" expanded="true" signature="102871:102886" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="102871:103860" ph="Deactive Permit" />
+            <marker date="1498142091037" expanded="true" signature="103862:103877" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="103862:104024" ph="Reactive Permit" />
+            <marker date="1498142091037" expanded="true" signature="104026:104044" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="104026:104209" ph="Confirm Possession" />
+            <marker date="1498142091037" expanded="true" signature="104211:104222" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="104211:104896" ph="Edit Permit" />
+            <marker date="1498142091037" expanded="true" signature="104898:104910" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="104898:105988" ph="Mark Missing" />
+            <marker date="1498142091037" expanded="true" signature="105990:106003" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="105990:106367" ph="Return Permit" />
+            <marker date="1498142091037" expanded="true" signature="106369:106402" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="106369:106595" ph="Click on the Customer in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="106597:106635" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="106597:107178" ph="Select a Configuration Category_System" />
+            <marker date="1498142091037" expanded="true" signature="107180:107190" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="107180:107995" ph="Send Email" />
+            <marker date="1498142091037" expanded="true" signature="107997:108016" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="107997:108182" ph="View Letter History" />
+            <marker date="1498142091037" expanded="true" signature="108184:108222" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="108184:109933" ph="FeeSchedule Select for Refund Schedule" />
+            <marker date="1498142091037" expanded="true" signature="109935:109969" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="109935:111138" ph="FeeSchedule Select RefundValueLess" />
+            <marker date="1498142091037" expanded="true" signature="111140:111185" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="111140:112015" ph="Third Party Content Manager For Merge Records" />
+            <marker date="1498142091037" expanded="true" signature="112017:112032" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="112017:113076" ph="Merge Customers" />
+            <marker date="1498142091037" expanded="true" signature="113078:113100" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="113078:114672" ph="Appeal Content Manager" />
+            <marker date="1498142091037" expanded="true" signature="114674:114714" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="114674:114900" ph="Click on the Citation Number in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="114902:114933" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="114902:115162" ph="Click on the Appeal in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="115164:115177" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="115164:116100" ph="Apply Results" />
+            <marker date="1498142091037" expanded="true" signature="116102:116115" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="116102:116433" ph="Add Misc Item" />
+            <marker date="1498142091037" expanded="true" signature="116435:116467" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="116435:118046" ph="Insert/Edit Permit Control Group" />
+            <marker date="1498142091037" expanded="true" signature="118048:118073" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="118048:119414" ph="Permit content manager-MC" />
+            <marker date="1498142091037" expanded="true" signature="119416:119444" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="119416:120266" ph="Third Party Content Manager2" />
+            <marker date="1498142091037" expanded="true" signature="120268:120296" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="120268:121392" ph="Third Party Content Manager1" />
+            <marker date="1498142091037" expanded="true" signature="121394:121429" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="121394:121906" ph="Insert/Edit Customer Classification" />
+            <marker date="1498142091037" expanded="true" signature="121908:121946" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="121908:122843" ph="Insert/Edit Customer Subclassification" />
+            <marker date="1498142091037" expanded="true" signature="122845:122872" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="122845:124078" ph="Insert/Edit Transfer Agency" />
+            <marker date="1498142091037" expanded="true" signature="124080:124106" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="124080:125025" ph="Insert/Edit Payment Method" />
+            <marker date="1498142091037" expanded="true" signature="125027:125054" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="125027:125209" ph="Click on Configuration Link" />
+            <marker date="1498142091037" expanded="true" signature="125211:125282" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="125211:126220" ph="Payment Eligibility Management Page Subclassifications Page- ThirdParty" />
+            <marker date="1498142091037" expanded="true" signature="126222:126281" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="126222:127337" ph="Payment Eligibility Management Page Subclassifications Page" />
+            <marker date="1498142091037" expanded="true" signature="127339:127399" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="127339:128337" ph="Payment Eligibility Management Page Subclassifications Page1" />
+            <marker date="1498142091037" expanded="true" signature="128339:128374" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="128339:129699" ph="Insert/Edit Permit Control Group SP" />
+            <marker date="1498142091037" expanded="true" signature="129701:129724" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="129701:131187" ph="Edit Permit Information" />
+            <marker date="1498142091037" expanded="true" signature="131189:131209" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="131189:133366" ph="Renewals Schedule SP" />
+            <marker date="1498142091037" expanded="true" signature="133368:133401" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="133368:133883" ph="Back to NumberRange from Renewals" />
+            <marker date="1498142091037" expanded="true" signature="133885:133935" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="133885:134121" ph="Click on the Pre-Authorized Deductions in the Grid" />
+            <marker date="1498142091037" expanded="true" signature="134123:134149" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="134123:135471" ph="Define Task Parameters PAD" />
+            <marker date="1498142091037" expanded="true" signature="135473:135486" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="135473:135931" ph="Query manager" />
+            <marker date="1498142091037" expanded="true" signature="135933:135944" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="135933:136429" ph="Query Setup" />
+            <marker date="1498142091037" expanded="true" signature="136431:136470" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="136431:136679" ph="Click Citation In Choose Starting Table" />
+            <marker date="1498142091037" expanded="true" signature="136681:136703" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="136681:137724" ph="Join Additional Tables" />
+            <marker date="1498142091037" expanded="true" signature="137726:137740" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="137726:138894" ph="Select Filters" />
+            <marker date="1498142091037" expanded="true" signature="138896:138932" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="138896:139404" ph="Select Options for Totals and Counts" />
+            <marker date="1498142091037" expanded="true" signature="139406:139430" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="139406:139651" ph="Lookup Table Management2" />
+            <marker date="1498142091037" expanded="true" signature="139653:139666" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="139653:139817" ph="Add New Item2" />
+            <marker date="1498142091037" expanded="true" signature="139819:139840" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="139819:140610" ph="Define Scheduled Task" />
+            <marker date="1498142091037" expanded="true" signature="140612:140638" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="140612:141071" ph="Define Schedule Task Step2" />
+            <marker date="1498142091037" expanded="true" signature="141073:141096" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="141073:142368" ph="Define Task Parameters1" />
+            <marker date="1498142091037" expanded="true" signature="142370:142397" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="142370:143399" ph="Define Task Parameters CLFP" />
+            <marker date="1498142091037" expanded="true" signature="143401:143427" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="143401:146065" ph="Define Task Parameters-CSL" />
+            <marker date="1498142091037" expanded="true" signature="146067:146116" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="146067:147130" ph="Payment Eligibility Management FinancialType Page" />
+            <marker date="1498142091037" expanded="true" signature="147132:147164" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="147132:148085" ph="Permit content manager-Link Flow" />
+            <marker date="1498142091037" expanded="true" signature="148087:148123" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="148087:149875" ph="Permit content manager-Sell Flow POS" />
+            <marker date="1498142091037" expanded="true" signature="149877:149901" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="149877:150671" ph="Insert/Edit Address Type" />
+            <marker date="1498142091037" expanded="true" signature="150673:150688" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="150673:150751" ph="Refresh Browser" />
+            <marker date="1498142091037" expanded="true" signature="150753:150772" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="150753:152793" ph="Cash Drawer Section" />
+            <marker date="1498142091037" expanded="true" signature="152795:152816" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="152795:154024" ph="Configuration Section" />
+            <marker date="1498142091037" expanded="true" signature="154026:154042" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="154026:155481" ph="Customer Section" />
+            <marker date="1498142091037" expanded="true" signature="155483:155497" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="155483:157652" ph="Permit Section" />
+            <marker date="1498142091037" expanded="true" signature="157654:157669" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="157654:158166" ph="Receipt Section" />
+            <marker date="1498142091037" expanded="true" signature="158168:158188" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="158168:159038" ph="Relationship Section" />
+            <marker date="1498142091037" expanded="true" signature="159040:159055" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="159040:160191" ph="Vehicle Section" />
+            <marker date="1498142091037" expanded="true" signature="160193:160204" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="160193:160327" ph="User Logout" />
+            <marker date="1498142091037" expanded="true" signature="160329:160365" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="160329:162302" ph="Permit content manager-Sell Flow CPP" />
+            <marker date="1498142091037" expanded="true" signature="162304:162310" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="162304:162429" ph="Logout" />
+            <marker date="1498142091037" expanded="true" signature="162431:162439" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="162431:162568" ph="Continue" />
+            <marker date="1498142091037" expanded="true" signature="162570:162583" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="162570:163148" ph="PaymentMethod" />
+            <marker date="1498142091037" expanded="true" signature="163150:163173" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="163150:164428" ph="Override Authentication" />
+            <marker date="1498142091037" expanded="true" signature="164430:164456" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="164430:165248" ph="Permit content manager-PCG" />
+            <marker date="1498142091037" expanded="true" signature="165250:165266" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="165250:167028" ph="Insert/Edit User" />
+            <marker date="1498142091037" expanded="true" signature="167030:167045" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="167030:167267" ph="User Management" />
+            <marker date="1498142091037" expanded="true" signature="167269:167281" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="167269:167493" ph="Add New User" />
+            <marker date="1498142091037" expanded="true" signature="167495:167531" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="167495:168876" ph="Insert/Edit Permit Control Group PCG" />
+            <marker date="1498142091037" expanded="true" signature="168878:168915" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="168878:170355" ph="Insert/Edit Permit Control Group RERP" />
+            <marker date="1498142091037" expanded="true" signature="170357:170379" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="170357:172533" ph="Renewals Schedule RERP" />
+            <marker date="1498142091037" expanded="true" signature="172535:172568" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="172535:173360" ph="Permit content manager-CreditCard" />
+            <marker date="1498142091037" expanded="true" signature="173362:173384" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="173362:174353" ph="FeeSchedule Select PEM" />
+            <marker date="1498142091037" expanded="true" signature="174355:174369" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="174355:175285" ph="Times Schedule" />
+            <marker date="1498142091037" expanded="true" signature="175287:175323" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="175287:175831" ph="Permit content manager-Sell Flow PEM" />
+            <marker date="1498142091037" expanded="true" signature="175833:175863" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="175833:176947" ph="Selection Basket CheckOut PEM1" />
+            <marker date="1498142091037" expanded="true" signature="176949:176979" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="176949:177915" ph="Selection Basket CheckOut PEM2" />
+            <marker date="1498142091037" expanded="true" signature="177917:177953" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="177917:179352" ph="Insert/Edit Permit Control Group PEM" />
+            <marker date="1498142091037" expanded="true" signature="179354:179384" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="179354:180115" ph="Insert/Edit Payment Method PEM" />
+            <marker date="1498142091037" expanded="true" signature="180117:180139" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="180117:180853" ph="Selection Basket Page3" />
+            <marker date="1498142091037" expanded="true" signature="180855:180884" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="180855:181649" ph="Permit content manager Cancel" />
+            <marker date="1498142091037" expanded="true" signature="181651:181678" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="181651:182409" ph="Insert/Edit Payment Method2" />
+            <marker date="1498142091037" expanded="true" signature="182411:182439" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="182411:185520" ph="Insert/Edit Transfer Agency2" />
+            <marker date="1498142091037" expanded="true" signature="185522:185557" ph="..." />
+            <marker date="1498142091037" expanded="true" signature="185522:186424" ph="Insert/Edit PaymentScheduleTemplate" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/CustomSelenium2Library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="726" column="8" lean-forward="true" selection-start-line="726" selection-start-column="8" selection-end-line="726" selection-end-column="19" />
+          <folding>
+            <element signature="e#61#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Flex_Login_Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="2080" column="0" lean-forward="true" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
